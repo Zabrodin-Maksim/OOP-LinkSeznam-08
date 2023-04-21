@@ -1,0 +1,6 @@
+sl, UTAS UTS-15, 1, Italy, 10, 0,634792.2
+pl, Maksim, 6, RUS, 10, 10,000000.2
+pl, Glock 17, 2, France, 28, 10,420176.2
+srl, L42 Enfield, 3, Great Britain, 23, 8,326614.2
+rl, 1903 Springfield, 4, Great Britain, 19, 10,475470.2
+srl, СВД, 5, Spain, 9, 11,803407.2
